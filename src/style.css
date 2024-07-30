@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 232, 223);
+}
+
+.gray {
+    color: #4c4b4b;
+    text-align: right;
+    border-top: 1px solid #4c4b4b;
+}
